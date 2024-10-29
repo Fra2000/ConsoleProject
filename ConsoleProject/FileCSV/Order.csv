@@ -1,0 +1,16 @@
+Id,ArticleName,Quantity,UnitPrice,PercentageDiscount,Buyer
+1,Coke,10,1,0,Mario Rossi
+2,Coke,15,2,0,Luca Neri
+3,Fanta,5,3,2,Luca Neri
+4,Water,20,1,10,Mario Rossi
+5,Fanta,1,4,15,Andrea Bianchi
+6,Pepsi,25,1.5,5,Giovanni Verdi
+7,Sprite,8,2.2,3,Marco Bianchi
+8,Tea,30,1.8,20,Luisa Blu
+9,Juice,12,2.5,0,Sara Viola
+10,Milk,15,1.3,8,Anna Rosa
+11,Orange Juice,18,3,10,Gianni Azzurro
+12,Lemonade,22,1.2,12,Sara Gialli
+13,Cola Zero,5,1.7,0,Luca Neri
+14,Water Sparkling,30,1.1,7,Mario Rossi
+15,Coffee,10,5,25,Andrea Bianchi

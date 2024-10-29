@@ -1,0 +1,14 @@
+# Cartella Visual Studio
+.vs/
+
+# Cartelle bin e obj (compilazioni)
+bin/
+obj/
+
+# File di configurazione utente di Visual Studio
+*.user
+*.suo
+
+# File temporanei e di backup
+*.tmp
+*.bak
